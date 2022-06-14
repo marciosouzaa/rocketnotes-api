@@ -18,3 +18,5 @@ class UserRepositoryInMemory {
     return this.users.find(user => user.email === email)
   }
 }
+
+module.exports = UserRepositoryInMemory
