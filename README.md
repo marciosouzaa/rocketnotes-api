@@ -8,16 +8,11 @@
 # Instale as dependências
 $ npm i
 
-# Execute as migration e seed
+# Execute as migration
 $ npm run migrate
-$ npm run seed
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
-
-# Login do adm
-$ email: adm@email.com
-$ password: 123
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
