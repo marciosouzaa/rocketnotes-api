@@ -21,8 +21,8 @@ $ npm run dev
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
+- Express
+- Knex
 - JavaScript
 - Node.js
 
